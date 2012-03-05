@@ -1,0 +1,5 @@
+*.pyc
+*.log
+#ignore log files
+*~
+#ignore log files
